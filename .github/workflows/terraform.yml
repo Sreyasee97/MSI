@@ -14,9 +14,6 @@ env:
   ARM_USE_OIDC: true
   ARM_USE_MSI: true
 
-
-
-
 jobs:
   terraform:
     name: 'Terraform'
